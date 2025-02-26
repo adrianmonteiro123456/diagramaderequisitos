@@ -320,7 +320,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UU_RuKPMBpdcApNO6OVb-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="190" width="120" height="80" as="geometry" />
+          <mxGeometry x="160" y="190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UU_RuKPMBpdcApNO6OVb-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UU_RuKPMBpdcApNO6OVb-3">
           <mxGeometry relative="1" as="geometry">
