@@ -572,9 +572,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="r6_fnqt8qaZZRbLpJ3bv-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="220" width="60" height="90" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
