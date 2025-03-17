@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.1" pages="12">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.1" pages="13">
   <diagram name="Página-1" id="Qon9khQklzdsfGTDlAOs">
     <mxGraphModel dx="1687" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1574,6 +1574,104 @@
               <mxPoint x="720" y="730" />
             </Array>
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="9pVq3Md8pZwiVUiKTDmC" name="Página-13">
+    <mxGraphModel dx="1462" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8-ue8FjUBlhcN75EHUIM-1" value="DIAGRAMA DE ATIVIDADE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="460" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8-ue8FjUBlhcN75EHUIM-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8-ue8FjUBlhcN75EHUIM-4" target="8-ue8FjUBlhcN75EHUIM-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8-ue8FjUBlhcN75EHUIM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8-ue8FjUBlhcN75EHUIM-4" target="8-ue8FjUBlhcN75EHUIM-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8-ue8FjUBlhcN75EHUIM-4" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;SISTEMA&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&amp;nbsp; &amp;nbsp; LOGIN DO ALUNO&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="310" y="600" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8-ue8FjUBlhcN75EHUIM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8-ue8FjUBlhcN75EHUIM-6" target="8-ue8FjUBlhcN75EHUIM-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8-ue8FjUBlhcN75EHUIM-6" value="Criar conta&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="720" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8-ue8FjUBlhcN75EHUIM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8-ue8FjUBlhcN75EHUIM-8" target="8-ue8FjUBlhcN75EHUIM-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8-ue8FjUBlhcN75EHUIM-8" value="logar novamente" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="720" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8-ue8FjUBlhcN75EHUIM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8-ue8FjUBlhcN75EHUIM-10" target="8-ue8FjUBlhcN75EHUIM-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8-ue8FjUBlhcN75EHUIM-10" value="Email do aluno" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="860" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8-ue8FjUBlhcN75EHUIM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8-ue8FjUBlhcN75EHUIM-12" target="8-ue8FjUBlhcN75EHUIM-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="1130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8-ue8FjUBlhcN75EHUIM-12" value="Nome e senha da conta&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1000" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8-ue8FjUBlhcN75EHUIM-13" value="Conta salva no sistema" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8-ue8FjUBlhcN75EHUIM-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8-ue8FjUBlhcN75EHUIM-15" target="8-ue8FjUBlhcN75EHUIM-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8-ue8FjUBlhcN75EHUIM-15" value="adicionar nome de usuário ou Email e senha&amp;nbsp;&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="840" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8-ue8FjUBlhcN75EHUIM-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8-ue8FjUBlhcN75EHUIM-18" target="8-ue8FjUBlhcN75EHUIM-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="1140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="1120" />
+              <mxPoint x="640" y="1120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8-ue8FjUBlhcN75EHUIM-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8-ue8FjUBlhcN75EHUIM-18" target="8-ue8FjUBlhcN75EHUIM-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8-ue8FjUBlhcN75EHUIM-18" value="Sistema procura alguma conta salva com esses determinados requisitos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="960" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8-ue8FjUBlhcN75EHUIM-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8-ue8FjUBlhcN75EHUIM-20" target="8-ue8FjUBlhcN75EHUIM-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="1280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8-ue8FjUBlhcN75EHUIM-20" value="conta encontrada&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8-ue8FjUBlhcN75EHUIM-21" value="conta não encontrada" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8-ue8FjUBlhcN75EHUIM-22" value="aluno loga na conta" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1240" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
