@@ -1266,7 +1266,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K1iRdPeYrG27CuoZHxf7-22" value="DIAGRAMA DE CASO DE USO" style="shape=umlFrame;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;width=200;height=30;fontColor=#000099;strokeColor=#000066;" parent="1" vertex="1">
-          <mxGeometry x="160" y="920" width="410" height="610" as="geometry" />
+          <mxGeometry x="209" y="260" width="410" height="610" as="geometry" />
         </mxCell>
         <mxCell id="K1iRdPeYrG27CuoZHxf7-23" value="" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=1;exitY=0;entryX=0;entryY=1;fontColor=#000099;strokeColor=#FF8000;" parent="1" source="K1iRdPeYrG27CuoZHxf7-3" target="K1iRdPeYrG27CuoZHxf7-5" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -1299,6 +1299,9 @@
         </mxCell>
         <mxCell id="IbNJaZ6q8IqXf0lBq2vd-1" value="Professor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="110" y="410" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7mL_RJkXgs1WSXB7pvBm-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IbNJaZ6q8IqXf0lBq2vd-2" target="K1iRdPeYrG27CuoZHxf7-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IbNJaZ6q8IqXf0lBq2vd-2" value="Aluno" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="670" y="550" width="30" height="60" as="geometry" />
