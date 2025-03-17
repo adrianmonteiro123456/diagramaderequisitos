@@ -1245,7 +1245,7 @@
             <mxPoint x="365.33333333333326" y="520.3333333333333" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K1iRdPeYrG27CuoZHxf7-22" value="DIAGRAMA DE SEQUENCIA" style="shape=umlFrame;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;width=200;height=30;fontColor=#000099;strokeColor=#000066;" parent="1" vertex="1">
+        <mxCell id="K1iRdPeYrG27CuoZHxf7-22" value="DIAGRAMA DE CASO DE USO" style="shape=umlFrame;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;width=200;height=30;fontColor=#000099;strokeColor=#000066;" parent="1" vertex="1">
           <mxGeometry x="190" y="250" width="410" height="610" as="geometry" />
         </mxCell>
         <mxCell id="K1iRdPeYrG27CuoZHxf7-23" value="" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=1;exitY=0;entryX=0;entryY=1;fontColor=#000099;strokeColor=#FF8000;" parent="1" source="K1iRdPeYrG27CuoZHxf7-3" target="K1iRdPeYrG27CuoZHxf7-5" edge="1">
