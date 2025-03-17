@@ -1161,31 +1161,31 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="K1iRdPeYrG27CuoZHxf7-1" value="blogs&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" parent="1" vertex="1">
+        <mxCell id="K1iRdPeYrG27CuoZHxf7-1" value="blogs" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" parent="1" vertex="1">
           <mxGeometry x="234" y="290" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K1iRdPeYrG27CuoZHxf7-2" value="videos-aulas" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" parent="1" vertex="1">
           <mxGeometry x="235" y="380" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="K1iRdPeYrG27CuoZHxf7-3" value="atividades de aprendizado" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" parent="1" vertex="1">
+        <mxCell id="K1iRdPeYrG27CuoZHxf7-3" value="aula sobre esse conteúdo" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" parent="1" vertex="1">
           <mxGeometry x="235" y="470" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="K1iRdPeYrG27CuoZHxf7-4" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" parent="1" vertex="1">
+        <mxCell id="K1iRdPeYrG27CuoZHxf7-4" value="aprendizagem de determinado conteúdo&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 153), rgb(218, 218, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" parent="1" vertex="1">
           <mxGeometry x="465" y="470" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K1iRdPeYrG27CuoZHxf7-5" value="Dúvidas" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" parent="1" vertex="1">
           <mxGeometry x="465" y="300" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="K1iRdPeYrG27CuoZHxf7-6" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" parent="1" vertex="1">
+        <mxCell id="K1iRdPeYrG27CuoZHxf7-6" value="&lt;span style=&quot;color: rgb(0, 0, 153); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;atividades de aprendizado&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" parent="1" vertex="1">
           <mxGeometry x="235" y="650" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="K1iRdPeYrG27CuoZHxf7-7" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" parent="1" vertex="1">
+        <mxCell id="K1iRdPeYrG27CuoZHxf7-7" value="correção" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" parent="1" vertex="1">
           <mxGeometry x="235" y="770" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="K1iRdPeYrG27CuoZHxf7-8" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" parent="1" vertex="1">
+        <mxCell id="K1iRdPeYrG27CuoZHxf7-8" value="fazer atividades" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" parent="1" vertex="1">
           <mxGeometry x="465" y="650" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="K1iRdPeYrG27CuoZHxf7-9" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" parent="1" vertex="1">
+        <mxCell id="K1iRdPeYrG27CuoZHxf7-9" value="revisar" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" parent="1" vertex="1">
           <mxGeometry x="465" y="770" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K1iRdPeYrG27CuoZHxf7-10" style="html=1;exitX=1;exitY=0.3333333333333333;exitPerimeter=0;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;fillColor=#f8cecc;strokeColor=#FF8000;curved=1;fontColor=#000099;" parent="1" target="K1iRdPeYrG27CuoZHxf7-1" edge="1">
@@ -1246,7 +1246,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K1iRdPeYrG27CuoZHxf7-22" value="DIAGRAMA DE CASO DE USO" style="shape=umlFrame;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;width=200;height=30;fontColor=#000099;strokeColor=#000066;" parent="1" vertex="1">
-          <mxGeometry x="190" y="720" width="410" height="610" as="geometry" />
+          <mxGeometry x="190" y="250" width="410" height="610" as="geometry" />
         </mxCell>
         <mxCell id="K1iRdPeYrG27CuoZHxf7-23" value="" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=1;exitY=0;entryX=0;entryY=1;fontColor=#000099;strokeColor=#FF8000;" parent="1" source="K1iRdPeYrG27CuoZHxf7-3" target="K1iRdPeYrG27CuoZHxf7-5" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -1268,7 +1268,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K1iRdPeYrG27CuoZHxf7-26" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" parent="1" vertex="1">
+        <mxCell id="K1iRdPeYrG27CuoZHxf7-26" value="dúvidas retiradas diretamente ao professor" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF8000;strokeColor=#000066;fontColor=#000099;" parent="1" vertex="1">
           <mxGeometry x="235" y="560" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K1iRdPeYrG27CuoZHxf7-27" value="" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;fontColor=#000099;strokeColor=#FF8000;" parent="1" source="K1iRdPeYrG27CuoZHxf7-2" target="K1iRdPeYrG27CuoZHxf7-5" edge="1">
