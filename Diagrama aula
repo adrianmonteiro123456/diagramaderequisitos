@@ -1119,7 +1119,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tcHrP5nC0FxO10_4w0V6" name="Edu Path- Diagrama de classe">
-    <mxGraphModel dx="1538" dy="1466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2289" dy="1847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1138,6 +1138,9 @@
           <mxGeometry x="190" y="-720" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="a66WmND2oXRlt2CpWGzE-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2ywwPYje2eY-CoxRly_p-14" target="2ywwPYje2eY-CoxRly_p-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JxtOZ8lWf4JLH_yZsmof-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2ywwPYje2eY-CoxRly_p-14" target="QqBl4xFaav_xGP57_tCn-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2ywwPYje2eY-CoxRly_p-14" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&amp;nbsp;usuário&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+Nome: string&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+E-mail: string&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ telefone: string&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+matricula: string&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;criar_conta ()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;deletar_conta()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;editar_conta()&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
@@ -1237,8 +1240,15 @@
         <mxCell id="TzH84CU8iUlTxGt6_a_B-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0.603;exitY=0.001;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Pr_0Sl1HTtqJft79pLCA-1" target="sQaxU4VGYBrxlW9JqNFL-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="JxtOZ8lWf4JLH_yZsmof-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QqBl4xFaav_xGP57_tCn-5" target="2ywwPYje2eY-CoxRly_p-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-150" y="-440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QqBl4xFaav_xGP57_tCn-5" value="estudante&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="-390" width="160" height="210" as="geometry" />
+          <mxGeometry x="-413" y="-440" width="160" height="210" as="geometry" />
         </mxCell>
         <mxCell id="QqBl4xFaav_xGP57_tCn-6" value="&lt;div&gt;+nome&lt;/div&gt;&lt;div&gt;+numero&lt;/div&gt;&lt;div&gt;+cpf&lt;/div&gt;&lt;div&gt;+email&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;=" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="QqBl4xFaav_xGP57_tCn-5">
           <mxGeometry y="26" width="160" height="80" as="geometry" />
@@ -1713,7 +1723,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6eXWWPns9OUXTO6GtA4X" name="classe">
-    <mxGraphModel dx="1976" dy="1649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
