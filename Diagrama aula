@@ -1563,9 +1563,6 @@
         <mxCell id="QbIqisBESpJVxoA13czJ-6" value="Diagrama de classe&amp;nbsp; do Edu Path&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-490" y="-960" width="180" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="kjYkwxY6ZSksyAU7eONl-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2ywwPYje2eY-CoxRly_p-12" target="2ywwPYje2eY-CoxRly_p-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="jVJPBoYVhV3CtaRQYIbX-6" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2ywwPYje2eY-CoxRly_p-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="190" y="-430" as="targetPoint" />
@@ -1590,7 +1587,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2ywwPYje2eY-CoxRly_p-15" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Tela inicial&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+HomeScreen()&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+HomeScreen(barra de pesquisa)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+HomeScreen(vídeos e blogs mais pesquisados e importantes)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+HomeScreen(Assuntos vistos recentemente)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+HomeScreen(Chat com o professor)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-150" y="-710" width="270" height="180" as="geometry" />
+          <mxGeometry x="-170" y="-680" width="270" height="180" as="geometry" />
         </mxCell>
         <mxCell id="kjYkwxY6ZSksyAU7eONl-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2ywwPYje2eY-CoxRly_p-16" target="o6RNZt3n9oQ22gwNaiEH-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1601,7 +1598,7 @@
           <mxGeometry x="-95" y="-980" width="160" height="130" as="geometry" />
         </mxCell>
         <mxCell id="MoENp9GKzzumI_fjGZxR-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Barra de pesquisa&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+SearchBar:()&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+SearchBar(pesquisas do usuário)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+SeachBar(recomendação de assunto através do que pesquisa)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="-450" width="210" height="169" as="geometry" />
+          <mxGeometry x="-145" y="-379" width="210" height="169" as="geometry" />
         </mxCell>
         <mxCell id="kjYkwxY6ZSksyAU7eONl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="o6RNZt3n9oQ22gwNaiEH-1" target="kjYkwxY6ZSksyAU7eONl-5" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1685,7 +1682,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QqBl4xFaav_xGP57_tCn-5" value="estudante&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="-700" width="160" height="210" as="geometry" />
+          <mxGeometry x="-440" y="-420" width="160" height="210" as="geometry" />
         </mxCell>
         <mxCell id="QqBl4xFaav_xGP57_tCn-6" value="&lt;div&gt;+nome&lt;/div&gt;&lt;div&gt;+numero&lt;/div&gt;&lt;div&gt;+cpf&lt;/div&gt;&lt;div&gt;+email&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;=" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="QqBl4xFaav_xGP57_tCn-5">
           <mxGeometry y="26" width="160" height="80" as="geometry" />
