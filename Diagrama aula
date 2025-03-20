@@ -568,7 +568,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="r2Qu20PqfmIBbQiUYkms" name="Página-8">
-    <mxGraphModel dx="1102" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
+    <mxGraphModel dx="2489" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1040,10 +1040,10 @@
         <mxCell id="okpP4LsnRzrFPr79UEuz-171" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="okpP4LsnRzrFPr79UEuz-153" target="okpP4LsnRzrFPr79UEuz-155" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="okpP4LsnRzrFPr79UEuz-153" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;Extended Requirements" style="shape=rect;html=1;whiteSpace=wrap;align=center;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="okpP4LsnRzrFPr79UEuz-153" value="&amp;lt;&amp;lt;requer&amp;gt;&amp;gt;&lt;br&gt;Extended Requirements" style="shape=rect;html=1;whiteSpace=wrap;align=center;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="734" y="780.38" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="okpP4LsnRzrFPr79UEuz-154" value="&amp;lt;&amp;lt;designConstraints&amp;gt;&amp;gt;&lt;br&gt;SeedMix Recipe" style="shape=rect;html=1;whiteSpace=wrap;align=center;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="okpP4LsnRzrFPr79UEuz-154" value="&amp;lt;&amp;lt;design contra&amp;gt;&amp;gt;&lt;br&gt;receita de mistura de sementes" style="shape=rect;html=1;whiteSpace=wrap;align=center;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="510" y="890" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="okpP4LsnRzrFPr79UEuz-155" value="&amp;lt;&amp;lt;performanceRequirement&amp;gt;&amp;gt;&lt;br&gt;ProductionEfficiency" style="shape=rect;html=1;whiteSpace=wrap;align=center;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -1063,7 +1063,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="okpP4LsnRzrFPr79UEuz-159" value="&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;Seed Mix Requirements" style="shape=rect;html=1;whiteSpace=wrap;align=center;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="okpP4LsnRzrFPr79UEuz-159" value="&amp;lt;&amp;lt;requer&amp;gt;&amp;gt;&lt;br&gt;mistura de sementes requisitos" style="shape=rect;html=1;whiteSpace=wrap;align=center;strokeWidth=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="504" y="676.38" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="okpP4LsnRzrFPr79UEuz-160" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=sysMLPackCont;startSize=12;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="okpP4LsnRzrFPr79UEuz-159" target="okpP4LsnRzrFPr79UEuz-148" edge="1">
@@ -1556,7 +1556,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tcHrP5nC0FxO10_4w0V6" name="Edu Path- Diagrama de classe">
-    <mxGraphModel dx="1976" dy="2818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3067" dy="3354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1595,7 +1595,7 @@
         <mxCell id="kjYkwxY6ZSksyAU7eONl-7" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Técnicas de ensino&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ TeachingTechniques()&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;TeachingTechniques(pomodoro)&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ TeachingTechniques(Matriz de Eisenhower)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="470" y="-952.5" width="270" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="sQaxU4VGYBrxlW9JqNFL-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Gamificação&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Gamification()&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Gamification(pontos por acerto)&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Gamification(premiações)&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="sQaxU4VGYBrxlW9JqNFL-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Gamificação&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Gamification()&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Gamification(pontos por acerto)&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Gamification(premiações)&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="640" y="-615" width="210" height="145" as="geometry" />
         </mxCell>
         <mxCell id="jVJPBoYVhV3CtaRQYIbX-1" value="blog" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
